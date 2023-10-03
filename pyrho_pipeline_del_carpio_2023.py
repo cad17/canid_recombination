@@ -6,7 +6,7 @@
 # smc++
 # pyrho
 
-#this workflow if pipeline for gwf manual: https://gwf.app/
+#this workflow is a pipeline for gwf manual: https://gwf.app/
 #for a guide on using gwf on UCLA's HPC (Hoffman2) see: 
 #https://github.com/izabelcavassim/gwf_UCLA_cluster/blob/master/gwf_tutorial.md
 
